@@ -10,7 +10,7 @@
 
 <main>
   <h1 id="title">SnappyDough TV
-    <img src="Snappydough.jpg" alt="bruh">
+    <img src="Snappydough.jpg" alt="logo">
   </h1>
 
   
